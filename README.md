@@ -18,6 +18,6 @@ Principais informações sobre o desenvolvimento Back-end da aplicação. Para m
 
 * Exceute a aplicação Spring Boot
 
-* Acesse a aplicação em http://localhost:8080/receitopia
+* Acesse a aplicação em <code> http://localhost:8080/receitopia </code>
 
 * Use o Insomnia para testar as requisições Rest API
