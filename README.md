@@ -9,3 +9,15 @@ Principais informações sobre o desenvolvimento Back-end da aplicação. Para m
  * [Spring Data JDBC](https://spring.io/projects/spring-data-jdbc)
  * [H2](https://h2database.com/html/main.html)
  * [Insomnia](https://insomnia.rest/)
+
+<h2> Como executar? </h2>
+
+* Clone o repositorio: <code> git clone https://github.com/Receitopia/receitopia-backend.git </code>
+
+* Garanta que o seu ambiente está preparado com todas as dependencias necessárias de acordo com as tecnologias acima. 
+
+* Exceute a aplicação Spring Boot
+
+* Acesse a aplicação em http://localhost:8080/receitopia
+
+* Use o Insomnia para testar as requisições Rest API
