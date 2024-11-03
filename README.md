@@ -1,5 +1,11 @@
-# Receitopia - Portal de Receitas
+<h1 align="center"> Receitopia - Portal de Receitas </h1>
+Principais informações sobre o desenvolvimento Back-end da aplicação. Para mais detalhes, acesse a dcumentação do projeto. 
 
-* [Clique para acessar o Figma](https://www.figma.com/design/r8nd20kalZZLPrjzVNl26A/Receitopia?node-id=0-1&node-type=canvas&t=wMGAyaGzOiP8cegd-0)
+<h2> Tecnologias </h2>
 
-* [Clique para acessar o Kanban](https://github.com/orgs/Receitopia/projects/4)
+ * [Spring Boot](https://spring.io/projects/spring-boot) 
+ * [Spring MVC](https://docs.spring.io/spring-framework/reference/web/webmvc.html)
+ * [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
+ * [Spring Data JDBC](https://spring.io/projects/spring-data-jdbc)
+ * [H2](https://h2database.com/html/main.html)
+ * [Insomnia](https://insomnia.rest/)
